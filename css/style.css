@@ -6,7 +6,11 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  }
+  body {
+    background-color: #C7C7CC;
 }
+  
 .nav ul {
   list-style: none;
   background: #FFA500;
