@@ -1,12 +1,6 @@
 
 
-html { 
-  background: url(/images/home.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  }
+
   #main{
     background-color: #6E5C5B;
 }
@@ -15,14 +9,14 @@ html {
   list-style: none;
   background: #542F2D;
   text-align: center;
-  padding: 0;
-  margin: 0;
+  padding:2px ;
+  margin: 2px ;
 }
 .nav li {
   font-family: 'Oswald', sans-serif;
   font-size: 1em;
-  line-height: 20px;
-  height: 20px;
+  line-height: 10px;
+  height: 10px;
   border-bottom: 1px solid #888;
 }
  
