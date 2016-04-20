@@ -53,7 +53,12 @@
   }
 
 
-div.whitecolor li.c2 b.c3 p.c4{
+div.whitecolor li.c2 {
     color: #ffffff;
 }
-
+div b.c3 {
+    color: #ffffff;
+}
+div p.c4{
+    color: #ffffff;
+}
