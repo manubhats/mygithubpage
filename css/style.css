@@ -41,9 +41,9 @@
   .nav li {
     width: 120px;
     border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
+    height: 30px;
+    line-height: 30px;
+    font-size: 1.2em;
   }
  
   /* Option 1 - Display Inline */
