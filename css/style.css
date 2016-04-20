@@ -55,7 +55,10 @@ h1{
 /*    margin-right: -4px;*/
 /*  }*/
 
-h1#head{
+h1#head div#tail{
+  color:#1E221C;
+}
+h4.name{
   color:#1E221C;
 }
 div.whitecolor li.c2 {
