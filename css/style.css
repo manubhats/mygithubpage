@@ -62,17 +62,6 @@ html {
     margin-right: -4px;
   }
  
-  /* Options 2 - Float
-  .nav li {
-    float: left;
-  }
-  .nav ul {
-    overflow: auto;
-    width: 600px;
-    margin: 0 auto;
-  }
-  .nav {
-    background-color: #444;
-  }
-  */
+div.whitecolor li.c2 {
+    color: white;
 }
