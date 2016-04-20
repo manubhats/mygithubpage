@@ -5,6 +5,9 @@
     background-color: #4A4A4A;
 }
 
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
 .nav ul {
   list-style: none;
   background: #542F2D;
