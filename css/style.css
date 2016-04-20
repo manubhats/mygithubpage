@@ -55,13 +55,15 @@ h1{
 /*    margin-right: -4px;*/
 /*  }*/
 
-
+h1#head{
+  color:#A4E786;
+}
 div.whitecolor li.c2 {
     color: #ffffff;
 }
 div b.c3 {
-    color: #ffffff;
+    color: #A4E786;
 }
 div p.c4{
-    color: #ffffff;
+    color: #A4E786;
 }
