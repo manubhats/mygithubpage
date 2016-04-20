@@ -10,11 +10,7 @@ html {
   #main{
     background-color: #6E5C5B;
 }
-#divs{
-  background-color: #964A46;
-  text:#ffffff;
-}
-  
+
 .nav ul {
   list-style: none;
   background: #542F2D;
@@ -61,7 +57,11 @@ html {
     display: inline-block;
     margin-right: -4px;
   }
- 
+
+div.whitecolor {
+  background-color: #964A46;
+  text:#ffffff;
+}
 div.whitecolor li.c2 {
-    color: white;
+    color: #ffffff;
 }
