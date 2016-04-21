@@ -1,5 +1,11 @@
 
-
+.grid
+{
+	text-align:center;
+	margin:auto;
+	padding:20px;
+	font-size:0
+}
 
 .grid__item
 {
